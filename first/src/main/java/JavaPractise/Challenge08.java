@@ -9,7 +9,7 @@ public class Challenge08 {
 
 	public static void main(String[] args) {
 		List<Integer> larray=new ArrayList<>();
-		larray.add(123);
+		larray.add(12);
 		larray.add(2345);
 		larray.add(-987);
 		larray.add(0);
